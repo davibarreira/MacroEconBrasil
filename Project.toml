@@ -1,0 +1,11 @@
+[deps]
+Arrow = "69666777-d1a9-59fb-9406-91d4454c9d45"
+Dagger = "d58978e5-989f-55fb-8d15-ea34adc7bf54"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+InverseFunctions = "3587e190-3f89-42d0-90ee-14403ec27112"
+KernelDensity = "5ab0869b-81aa-558d-bb23-cbf5423bbe9b"
+PrettyNumbers = "d1bdb62b-d559-469f-b147-fd8a93502a34"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+StructArrays = "09ab397b-f2b6-538f-b94a-2f83cf4a842a"
+Vizagrams = "8c229dad-8b3a-4031-83d6-73545c88426d"
